@@ -1,7 +1,17 @@
-# UFC-Fights-Analysis
+# :boxing_glove: UFC Fights Analysis :martial_arts_uniform:
 Comprehensive UFC fights analysis using machine learning models and stats technics. Contain a written report, code, and data  
 
-## Abstract
+## :bar_chart: Result: 
+Able to predict a fight with a 66.7% accuracy score using logistic regression with only data engineering (see below for more info).
+
+## :card_file_box: Tech-stack 
+- Data Cleaning: Numpy, Pandas, sklearn (LabelEncoder, SimpleImputer, train_test_split, StandardScaler), xgboost (XGBClassifier).
+- Data Visualization: mathplotlib.pyplot, seaborn, sklearn (plot_tree).
+- Machine Learning Model: Random Forest, Logistic Regression, Linear Discriminant Analysis, Ridge Regression, Boosting. 
+- Optimization: Standardization, Cross-validation, and Feature selections
+
+
+## :bookmark_tabs: Abstract
 As combat sports increase in popularity, causal viewers often overlook the complexity of mixed martial
 art (MMA). In the early day of the UFC, when fighters' skills are more one-dimensional (wrestling only or
 boxing only), one may have a higher chance of predicting a winner based on the fighting style. However,
