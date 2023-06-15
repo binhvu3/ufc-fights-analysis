@@ -1,4 +1,4 @@
-# :boxing_glove: UFC Fights Analysis :martial_arts_uniform:
+# :boxing_glove: Unveiling the Secrets of MMA: Predicting UFC Fight Winners using Machine Learning :martial_arts_uniform:
 Comprehensive UFC fights analysis using machine learning models and stats technics. Contain a written report, code, and data  
 
 ## :bar_chart: Result: 
