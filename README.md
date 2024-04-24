@@ -3,6 +3,7 @@ Comprehensive UFC fights analysis using machine learning models and stats techni
 
 ## :bar_chart: Result: 
 Able to predict a fight with a 66.7% accuracy score :tada: using logistic regression with only data engineering (see below for more info).
+![alt text](./result.png)
 
 ## :card_file_box: Tech-stack 
 - :broom: Data Cleaning: Numpy, Pandas, sklearn (LabelEncoder, SimpleImputer, train_test_split, StandardScaler), xgboost (XGBClassifier).
