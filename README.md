@@ -1,15 +1,17 @@
 # :boxing_glove: Unveiling the Secrets of MMA: Predicting UFC Fight Winners using Machine Learning :martial_arts_uniform:
 Comprehensive UFC fights analysis using machine learning models and stats technics. Contain a written report, code, and data  
 
-## :bar_chart: Result: 
-Able to predict a fight with a 66.7% accuracy score :tada: using logistic regression with only data engineering (see below for more info).
-![alt text](./result.png)
-
 ## :card_file_box: Tech-stack 
 - :broom: Data Cleaning: Numpy, Pandas, sklearn (LabelEncoder, SimpleImputer, train_test_split, StandardScaler), xgboost (XGBClassifier).
 - :eyes: Data Visualization: mathplotlib.pyplot, seaborn, sklearn (plot_tree).
 - :robot: Machine Learning Model: Random Forest, Logistic Regression, Linear Discriminant Analysis, Ridge Regression, Boosting. 
 - :dart: Optimization: Standardization, Cross-validation, and Feature selections
+
+
+## :bar_chart: Result: 
+Able to predict a fight with a 66.7% accuracy score :tada: using logistic regression with only data engineering (see below for more info).
+![alt text](./result.png)
+
 
 
 ## :bookmark_tabs: Abstract
